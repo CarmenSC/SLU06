@@ -9,4 +9,5 @@ butter
 eggs
 toilet paper
 cat food
-pears	
+pear juice 
+apple
